@@ -1,0 +1,7 @@
+com/example/bki/MainActivity.java
+ com.example.bki.MainActivity
+ com.example.bki.MainActivity$1
+ com.example.bki.MainActivity$2
+ com.example.bki.MainActivity$3
+com/example/bki/BuildConfig.java
+ com.example.bki.BuildConfig
